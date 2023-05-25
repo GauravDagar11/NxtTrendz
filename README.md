@@ -7,3 +7,7 @@
 </div>
 <br/>
 
+Authorized user credentials = {
+  username: rahul,
+  password: rahul@2021
+}
